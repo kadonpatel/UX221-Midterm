@@ -1,0 +1,19 @@
+[10-Feb-2026 00:06:47 UTC] PHP Warning:  Undefined array key "host" in /workspaces/UX221-Midterm/.wordpress/wp-includes/pluggable.php on line 1721
+[10-Feb-2026 00:32:36 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-admin/includes/ajax-actions.php on line 4801
+[10-Feb-2026 00:32:46 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-admin/includes/ajax-actions.php on line 4801
+[10-Feb-2026 00:32:52 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-admin/includes/ajax-actions.php on line 4859
+[10-Feb-2026 00:32:52 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-includes/class-wp-admin-bar.php on line 365
+[10-Feb-2026 00:33:01 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-includes/class-wp-admin-bar.php on line 365
+[10-Feb-2026 00:33:03 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-admin/includes/ajax-actions.php on line 4801
+[10-Feb-2026 00:33:04 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-admin/includes/ajax-actions.php on line 4801
+[10-Feb-2026 00:33:13 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-admin/edit-form-blocks.php on line 74
+[10-Feb-2026 00:33:14 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-admin/includes/ajax-actions.php on line 4801
+[10-Feb-2026 00:33:14 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-admin/includes/ajax-actions.php on line 4801
+[10-Feb-2026 00:33:15 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-includes/class-wp-admin-bar.php on line 400
+[10-Feb-2026 00:33:25 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-admin/includes/ajax-actions.php on line 4801
+[10-Feb-2026 00:33:25 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-admin/includes/ajax-actions.php on line 4801
+[10-Feb-2026 00:33:41 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-admin/includes/ajax-actions.php on line 4801
+[10-Feb-2026 00:33:42 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-includes/class-wp-admin-bar.php on line 365
+[10-Feb-2026 00:34:23 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-admin/includes/ajax-actions.php on line 4801
+[10-Feb-2026 00:35:21 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-admin/menu.php on line 29
+[10-Feb-2026 00:35:42 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-admin/edit-form-blocks.php on line 261
